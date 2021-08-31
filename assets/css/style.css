@@ -52,6 +52,8 @@
 .content-center input {
     margin-bottom: 15px;
     border-bottom: 1px solid #807a8b;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .content-center input:focus {
